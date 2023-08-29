@@ -1,5 +1,5 @@
 # Spender_iOS
-# # # Expense tracker made via Swift and UIKit.
+### Expense tracker made via Swift and UIKit.
 
 **Architectural pattern - MVC.**
 
